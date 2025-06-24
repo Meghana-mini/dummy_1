@@ -1,0 +1,27 @@
+{
+    "name": "demoo",
+    "version": "1.0.0",
+    "description": "demo ",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "demo"
+    },
+    "keywords": [
+        "demo",
+        "react",
+        "node",
+        "npm"
+    ],
+    "author": "meghana perambedu",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel": "^2.15.2"
+    },
+    "dependencies": {
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0"
+    }
+}
